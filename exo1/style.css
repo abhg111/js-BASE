@@ -1,0 +1,14 @@
+.carre{
+    width:200px;
+    height:200px;
+    background:#069;
+    top:20px;
+    right:850px;
+    display: flex;
+    }
+.texte{
+    position: center;
+    color : white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
