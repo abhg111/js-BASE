@@ -19,9 +19,7 @@
     flex-direction: column;
     justify-content: center;
     padding: 20px;
-
-
- }
+}
  
  .fav-btn {
    position: absolute;
@@ -48,7 +46,7 @@ fav-btn:hover {
    background-color: #388e3c; /* Darker green on hover */
 }
 
- .auteur{
+.auteur{
     font-size: 16px;
     color: #777;
     text-align: right; /* Right-aligns the author */
@@ -69,4 +67,3 @@ fav-btn:hover {
    gap: 1rem; /* Adds spacing between cards */
    padding: 20px;
 }
- 

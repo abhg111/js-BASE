@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+   
+
+.float{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    text-align: top;
+    justify-content: center;
+    vertical-align: top;
+    align-items: center; 
+    margin-top: 200px;
+    width: 400px;
+    height: 200px;
+    
+
+}
+
+.carre{
+    width: 80px;
+    height:80px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column; /* Arrange the icon and text vertically */
+    justify-content: center; /* Vertically center the content */
+    align-items: center; /* Horizontally center the content */
+    text-align: center;
+    vertical-align: middle;
+
+    }
+
+
+.blue{
+    background-color:rgb(53, 10, 209);
+    }
+.blueciel{
+    background-color: rgb(32, 175, 211);
+
+}    
+.purple{
+    background-color: rgb(233, 30, 223);
+}
+
+#textN{
+    
+    text-align: center;
+    vertical-align: middle;
+    color: aliceblue;
+}
+
+#socialName{
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+
+}
+#socialName1{
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+
+}
+#socialName2{
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+
+}
+
+
+
+#insta{
+    color: white;
+    font-size: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    }
+.p{
+    bottom: 200px;
+    position: relative;
+    color: rgb(53, 10, 209);
+    }
+
+.carreN{
+    display: flex;
+    flex-direction: column; /* Arrange the icon and text vertically */
+    justify-content: center; /* Vertically center the content */
+    align-items: center; /* Horizontally center the content */
+    box-shadow: 10px 5px 5px black;
+    border-radius: 30px;
+}
+.background{
+    background-color: grey;
+}

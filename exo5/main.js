@@ -30,7 +30,7 @@ quotes.forEach(quote => {
     
     fav.addEventListener("click", function() {
         const author = quote["auteur"]; // Récupérer l'auteur
-        const citations = `"${quote["quote"]}"`; // Récupérer quote
+        const citations = `"${quote["quote"]}"`; // Récupérer citation
 
         const isFavorite = fav.classList.contains("fas"); // Vérifie si l'élément est en favoris
 
@@ -44,7 +44,7 @@ quotes.forEach(quote => {
     } else {
         // Sinon, on ajoute en favoris
         localStorage.setItem(author, "auteur"); // Ajoute l'auteur au localStorage
-        localStorage.setItem(citations, "quote"); // Ajoute l'auteur au localStorage
+        localStorage.setItem(citations, "quote"); // Ajoute ciation au localStorage
         fav.classList.toggle("fas");
         fav.classList.remove("fav");
     }
