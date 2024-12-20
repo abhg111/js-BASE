@@ -1,6 +1,6 @@
-## **EXERCISES IN JAVASCRIPT **
+## **EXERCISES IN JAVASCRIPT **##
 
-##  Each Exercise has Readme, go to explore EXO files.
+## Each Exercise has Readme, go to explore EXO files. ##
 
 
 ##
