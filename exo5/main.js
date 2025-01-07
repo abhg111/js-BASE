@@ -55,13 +55,14 @@ quotes.forEach(quote => {
     
     console.log(localStorage)
     console.log(localStorage)
+    console.log(localStorage)
     
     // // Create a "Favorite" button
     // const favButton = document.createElement("button");
     // favButton.classList.add("fav-btn");
     // favButton.innerText = "Add to Favorites";
     // card.appendChild(favButton);
-
+<
     // // Add event listener to toggle favorite status
     // favButton.addEventListener("click", function() {
     //     if (favButton.innerText === "Add to Favorites") {
