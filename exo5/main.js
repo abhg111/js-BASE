@@ -59,6 +59,7 @@ quotes.forEach(quote => {
     console.log(localStorage)
     console.log(localStorage)
     console.log(localStorage)
+    console.log(localStorage)
     
     // // Create a "Favorite" button
     // const favButton = document.createElement("button");
